@@ -1,0 +1,21 @@
+# IntelliJ project files
+*.iml
+# Directory-based project format:
+.idea/
+.node-version
+node_modules/
+*.DS_Store
+local-keys/*
+*.cmd
+
+**/npm-debug.log*
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
